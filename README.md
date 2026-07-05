@@ -1,41 +1,66 @@
-# GTA-ADVANCE-HULK-MOD
-The most complete GTA Advance mod!
+# GTA Advance Hulk Mod
 
-In 2018 i decided to start a project to modify or to simply try to modify GTA Advance by hexadecimal codes.
+> **The most complete GTA Advance ROM hacking project ever made.**
 
-After a successfully effort to change the color of Mike, i felt more confident of what i should make with the versions of the game.
-From that, i invited my friend Brayam to help me putting things in order and here we are...
+A long-term ROM hacking project focused on reverse engineering and modifying **Grand Theft Auto Advance** through hexadecimal editing.
 
-<strong>FOLLOW BRYANNA IN GITHUB:</strong> https://github.com/synthtwin
-                                      
-ALL VERSIONS INCLUDED!
+---
 
-VERSION | DATE
+# 📖 About the Project
 
-0.1        11/06/2018
+In **2018**, I decided to start experimenting with **GTA Advance** by editing the game's ROM directly using hexadecimal values.
 
-0.5        11/11/2018
+After successfully changing Mike's color for the first time, I realized how much potential the game still had for modifications. That first experiment became the foundation of a much larger project.
 
-0.7        11/30/2018
+Soon after, I invited my friend **Bryanna Campos** to join the project. Together, we organized the research, documented memory addresses, discovered graphics locations, edited sprites, redesigned the HUD, and created what eventually became one of the most complete **GTA Advance** modification projects available.
 
-0.8        01/10/2020
+This repository preserves the entire development history of the project, including every released version.
 
-0.9        01/10/2020
+---
 
-1.1        01/10/2020
+# 👥 Authors
 
-2.3        04/25/2020
+- **Vinicius Leite**
+- **Bryanna Campos**
 
-2.6        08/26/2020
+### Follow Bryanna on GitHub
 
-2.7        08/29/2020
+🔗 https://github.com/synthtwin
 
-3.7        07/11/2021
+---
 
-You can install and play to see by yourself what changed from the past versions.
+# 📦 Included Versions
 
-See the ASCII TABLE here: https://www.garykessler.net/library/ascii.html
+Every released version is preserved in this repository.
 
+| Version | Release Date |
+|:--------:|:------------:|
+| 0.1 | 2018-11-06 |
+| 0.5 | 2018-11-11 |
+| 0.7 | 2018-11-30 |
+| 0.8 | 2020-01-10 |
+| 0.9 | 2020-01-10 |
+| 1.1 | 2020-01-10 |
+| 2.3 | 2020-04-25 |
+| 2.6 | 2020-08-26 |
+| 2.7 | 2020-08-29 |
+| 3.7 | 2021-07-11 |
+
+You can download and play every version to see how the project evolved over time.
+
+---
+
+# 🔍 Reverse Engineering Notes
+
+## ASCII Table
+
+Useful reference during ROM editing:
+
+🔗 https://www.garykessler.net/library/ascii.html
+
+---
+
+# ​📸​ INFOS AND SCREENSHOTS
 Characters from the game: 
 
 ![PERSONAGENS MENU BE2E00](https://github.com/ViniciusLeiteCosta/GTA-ADVANCE-HULK-MOD/assets/92338016/fc36a361-0510-4ee0-94db-d036e45d9e1f)
